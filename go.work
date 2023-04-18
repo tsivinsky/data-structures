@@ -1,3 +1,6 @@
 go 1.20
 
-use ./linked-list
+use (
+	./linked-list
+	./stack
+)
